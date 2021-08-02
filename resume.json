@@ -1,0 +1,109 @@
+{
+    "basics": {
+        "name": "RAJAT KUMAR",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/61390344?s=400&u=da7f8f2e0166bec56bd406ad29aada4736a7f641&v=4",
+        "email": "2019kucp1125@iiitkota.ac.in",
+        "phone": "7983023266",
+        "website": "",
+        "summary": "I am a Designer, an Illustrator, a Speaker, and an Author. Ocassionally, I maintain a healthy balance between functionality and visual impact in all my work. I believe every piece of design can be a work of art.",
+        "location": {
+            "address": "NAJOWALI GAMRI ,NAGINA , DISTRICT-BIJNOR",
+            "postalCode": "246762",
+            "city": "NAGINA",
+            "countryCode": "India",
+            "region": "UTTARPRADESH"
+        },
+        "profiles": [
+         
+            {
+                "network": "Github",
+                "username": "rajatsinghania",
+                "url": "https://github.com/abhishektanwar2001"
+            },
+            {
+                "network": "linkedin",
+                "username": "rajat-kumar-116050216",
+                "url": "https://www.linkedin.com/in/rajat-kumar-116050216/"
+            },
+            {
+                "network": "Instagram",
+                "username": "rajat_singhania",
+                "url": "https://www.instagram.com/rajat_singhania/"
+            }
+        ]
+    },
+    "work": [
+       
+        {
+            "company": "LetsGrowMore",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2021-07-02",
+            "endDate": "2021-07-28",
+            "summary": "",
+            "highlights": [
+                "Had internship for month of July,2021. Learned new things and developed skills creating great projects and portfolio."
+            ]
+        },
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2019-08-05 //Date",
+            "endDate": "2023-06-01",
+            "gpa": "7.00",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Facebook Spark AR Labs",
+            "awarder": "Spark AR Labs",
+            "date": "2021-06-29"
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Java,
+                "Python",
+                "SQL"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Badminton",
+                "Cricket",
+                "volleyball",
+                "Chess"
+            ]
+        },
+        {
+            "name": "Singing",
+            "keywords": [
+                "Dancing",
+                "casio"
+            ]
+        }
+    ],
+    "references": []
+}
